@@ -29,4 +29,5 @@ Phineas suddenly remarks “Hey Where’s Perry ?”.
 Hey Junior  help them complete the task quickly so that they can spend the rest of their time finding Perry.”But creating objects for 20 superheroes seems a tedious task “ , says Isabel. Hey Junior help them complete it quickly using this - keyword.
 
 ## Final Outcome
+![output-image](https://github.com/ProGradJr/Battle_Mania/blob/main/output.png)
 
