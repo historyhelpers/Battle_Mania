@@ -1,19 +1,19 @@
 // Array of players
 const Phineas = [
-    "Spiderman",
+    "Spider Man",
     "Captain America",
-    "Wonderwoman",
+    "Wonder Woman",
     "Popcorn",
-    "Gemwoman",
+    "Gem Woman",
     "Bolt",
-    "Antwoman",
+    "Ant Woman",
     "Mask"
 ];
 
 const Ferb = [
     "Tiger",
     "Captain",
-    "Catwoman",
+    "Cat Woman",
     "Fish",
     "Hulk",
     "Ninja",
